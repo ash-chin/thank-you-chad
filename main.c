@@ -28,7 +28,12 @@ int main(int argc, char** argv) {
 
     troy_clendenen();
     movenext
+      
+    raul_patel();
+    movenext
+
     justin_spidell();
     movenext
+
     return 0;
 }
