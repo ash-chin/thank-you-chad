@@ -6,6 +6,7 @@ For Chad: Just clone the repo, type 'make' in the command line and go through th
 For Students: Here is some info you should know:
 
 - To add your changes, fork the repo to create your own branch, and then make your changes.
+# Make sure that your fork is updated with the most recent version before you make changes
 
 - Most of the information is already in the main.c file for how you should format your thank-you note for Chad.
 - Run 'make' to ensure that everything works for how you want it to (and that nothing breaks lol).
