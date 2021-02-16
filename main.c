@@ -35,5 +35,9 @@ int main(int argc, char** argv) {
     justin_spidell();
     movenext
 
+    tammas_hicks();
+    movenext
+
+printf("----------From the Winter CIS330 class to you----------\n");
     return 0;
 }
