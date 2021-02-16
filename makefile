@@ -1,15 +1,16 @@
 #
 # Thank You makefile
 #
-
+sources=$(wildcard *.c)
+objects=$(addsuffix .o, $(basename $(sources)))
 CC=gcc
 
-TARGETS=thankyou
+TARGET=thankyou
 
-all: $(TARGETS)
-
-thankyou: main.c students.o students.h
-	$(CC) -o $@ $<
+$(TARGET): $(objects)
+	$(CC) -o $(TARGET) $(objects)
+%.o : %.c
+	$(CC) -c $< -o $@
 
 clean:
-	rm -f $(TARGETS) *.o
+	rm -f $(TARGET) $(objects)
