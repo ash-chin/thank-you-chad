@@ -15,3 +15,12 @@ void troy_clendenen() {
 
     printf("-Troy\n");
 }
+
+void raul_patel() {
+
+    printf("\nThanks for being such a great GE this term. In a class that made ");
+    printf("me question my intelligence pretty frequently, your words of encour");
+    printf("agement meant the world.\n");
+
+    printf("-Raul\n");
+}
