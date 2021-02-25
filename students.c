@@ -66,3 +66,17 @@ printf("██ ▓▓ ▓▓ ██ ██ ██ ██ ██ ── ── �
 printf("██ ▓▓ ▓▓ ██ ██ ── ── ── ── ── ── ── ██ ██ ██ ──                                 -Tammas Hicks \n");
 printf("── ██ ██ ── ── ── ── ── ── ── ── ── ── ── ── ──\n");
 }
+
+void sarah_kitten() {
+    printf("\nThanks so much, Chad. Your frequent updates and encouragement wer");
+    printf("e super valuable, and my 330 experience was pretty much carried by ");
+    printf("the knowledge that you actually cared and wanted us to succeed.  I ");
+    printf("appreciate that a lot, and I'm not sure how intact my sanity would ");
+    printf("be without you. \n");
+    printf("▐▓█▀▀▀▀▀▀▀▀▀█▓▌░▄▄▄▄▄░\n");
+    printf("▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░\n");
+    printf("▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░\n");
+    printf("▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░\n");
+    printf("░░░░▄▄███▄▄░░░░░█████░\n");
+    printf("-Sarah Kitten\n");
+}

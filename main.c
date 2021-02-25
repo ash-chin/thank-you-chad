@@ -38,6 +38,9 @@ int main(int argc, char** argv) {
     tammas_hicks();
     movenext
 
+    sarah_kitten();
+    movenext
+
 printf("----------From the Winter CIS330 class to you----------\n");
     return 0;
 }
