@@ -41,6 +41,8 @@ int main(int argc, char** argv) {
     sarah_kitten();
     movenext
 
+    edison_mielke();
+    movenext
 printf("----------From the Winter CIS330 class to you----------\n");
     return 0;
 }
