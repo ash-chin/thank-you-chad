@@ -80,3 +80,12 @@ void sarah_kitten() {
     printf("░░░░▄▄███▄▄░░░░░█████░\n");
     printf("-Sarah Kitten\n");
 }
+
+void edison_mielke() {
+    printf("\nI'm going to keep this short and sweet, you singlehandedly made this term" );
+    printf("worth it, if there were more TAs like you I'm sure I and many other students");
+    printf("would be having a much easier time with this major, thank you so much.\n");
+    printf("-Edison\n");
+    
+}
+
