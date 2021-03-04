@@ -15,5 +15,6 @@ void justin_spidell();
 void tammas_hicks();
 void sarah_kitten();
 void edison_mielke();
+void simon_ward();
 
 #endif

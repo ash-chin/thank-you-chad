@@ -89,3 +89,17 @@ void edison_mielke() {
     
 }
 
+void simon_ward(){
+    printf("\nOh geeze, I don't even know where to start with thanking you, because\n");
+    printf("you've done SO incredibly much for all of us. It boggles my mind how\n");
+    printf("willing and dedicated you are to helping us. The way you constantly post\n");
+    printf("extra resources and messages of encouragement on Canvas is just one of the\n");
+    printf("MANY things you have done that have helped me so much with this class --\n");
+    printf("not to mention how you'll stay up late, go outside of office hours, and work\n");
+    printf("overtime just to help us get our projects done. You are the epitome of a good\n");
+    printf("teacher. And when I say 'teacher' I mean 'teacher'. You by far taught us the\n");
+    printf("most this term, and whatever they're paying you, they're not paying you enough.\n");
+    printf("Anyways, I could go on and on, but I'll just leave it off here with one massive\n");
+    printf("THANK YOU\n");
+    printf("Sincerely -- Simon Ward\n");
+}
