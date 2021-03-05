@@ -103,3 +103,20 @@ void simon_ward(){
     printf("THANK YOU\n");
     printf("Sincerely -- Simon Ward\n");
 }
+
+void arden_butterfield() {
+    printf("\nChad,\n\nYou’ve done so much amazing work to help us learn\n");
+    printf("throughout the term. The example code playgrounds you built for\n"); 
+    printf("us have been so helpful. Your pep talk emails and industry\n");
+    printf("insights have helped morale and learning for me and many other\n");
+    printf("students. You have such a clear way of explaining things, and you\n");    printf("have helped us tremendously through the belly-of-the-whale that\n"); 
+    printf("is winter term of 2021. While I know it hasn’t been something\n");
+    printf("you’ve talked about, it is also always reassuring to see someone\n");
+    printf("else in the department with they/them pronouns on Canvas.\n\n");
+
+    printf("I’m so grateful that our paths crossed, and that I had the\n");
+    printf("opportunity to learn from you this term. Please please please\n");
+    printf("take care of yourself. I can’t wait to see where you’ll go next.\n");
+
+    printf("\n--Arden\n");
+}
