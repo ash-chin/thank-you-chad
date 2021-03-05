@@ -109,7 +109,8 @@ void arden_butterfield() {
     printf("throughout the term. The example code playgrounds you built for\n"); 
     printf("us have been so helpful. Your pep talk emails and industry\n");
     printf("insights have helped morale and learning for me and many other\n");
-    printf("students. You have such a clear way of explaining things, and you\n");    printf("have helped us tremendously through the belly-of-the-whale that\n"); 
+    printf("students. You have such a clear way of explaining things, and you\n");    
+    printf("have helped us tremendously through the belly-of-the-whale that\n"); 
     printf("is winter term of 2021. While I know it hasn’t been something\n");
     printf("you’ve talked about, it is also always reassuring to see someone\n");
     printf("else in the department with they/them pronouns on Canvas.\n\n");
