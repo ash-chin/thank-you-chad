@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include"students.h"
 
-#define movenext printf("Next? (Press Enter)"); scanf("%c", &buf);
+#define movenext printf("Next? (Press Enter)\n"); scanf("%c", &buf);
 
 int main(int argc, char** argv) {
 
@@ -52,6 +52,14 @@ int main(int argc, char** argv) {
 
     ash_chin();
     movenext
-printf("----------From the Winter CIS330 class to you----------\n");
+
+    cristian_garcia_l();
+    movenext
+
+    luying_tsai();
+    movenext
+      
+    printf("----------From the Winter CIS330 class to you----------\n");
+
     return 0;
 }
