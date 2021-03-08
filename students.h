@@ -17,4 +17,7 @@ void sarah_kitten();
 void edison_mielke();
 void simon_ward();
 void arden_butterfield();
+void cristian_garcia_l();
+void luying_tsai();
+
 #endif

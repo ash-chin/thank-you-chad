@@ -121,3 +121,26 @@ void arden_butterfield() {
 
     printf("\n--Arden\n");
 }
+
+void cristian_garcia_l() {
+
+  printf("Thank you for all your help this term Chad.\n");
+  printf("I really appreciate the long emails you have sent us.\n");
+  printf("I have learned a lot from them, and I can tell you put a lot of effort into them.\n");
+  printf("I am also extremely thankful for all the extra office hours you have had this term,\n");
+  printf("I don't what I would have done this term without you.\n");
+  printf("Thanks, Cristian Garcia Leon\n");
+}
+
+void luying_tsai() {
+
+  printf("Hi, Chad! I want to thank you for being our TA!\n");
+  printf("I’m too shy to talk to others, and every time I send an email to you\n");
+  printf("You always give me reply that exceed my expectations\n");
+  printf("A few people can do this perfectly on their job just like you!\n");
+  printf("I like this four-letter idiomatic \"一期一会\" means\n");
+  printf("As though it were a meeting that could occur only once in the lifetime\n");
+  printf("This winter term is short and only have a limited chance to talk and \"meet\" you,\n");
+  printf("Hope everything on you is well and thank you so much!\n");
+  printf("---Luying Tsai\n");
+}
