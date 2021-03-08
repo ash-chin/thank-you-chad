@@ -17,4 +17,5 @@ void sarah_kitten();
 void edison_mielke();
 void simon_ward();
 void arden_butterfield();
+void ash_chin();
 #endif

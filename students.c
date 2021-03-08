@@ -121,3 +121,10 @@ void arden_butterfield() {
 
     printf("\n--Arden\n");
 }
+
+void ash_chin() {
+	printf("\nChad, thank you so much for all the work you put into helping us this term.\n");
+	printf("Your help and words of encouragement were a much needed life preserver for many\n");
+	printf("of us, myself included. I hope you are doing well and please take care of yourself!\n");
+	printf("-Ash Chin\n");
+}
